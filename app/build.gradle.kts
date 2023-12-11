@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "cl.dsantander.spacexmobile2023"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "cl.dsantander.spacexmobile2023"
